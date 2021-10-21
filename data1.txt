@@ -1,0 +1,10 @@
+Next two lines contain row number and column number respectively of the graph
+4
+3
+=========The matrix input==============
+put the target function to last position:
+4 5 1500
+5 3 1575
+1 2 420
+-13 -11 0
+
